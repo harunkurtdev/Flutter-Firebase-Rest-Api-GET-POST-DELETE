@@ -4,7 +4,7 @@ Flutter Firebase Rest Api GET POST DELETE methodlarının ele alınması
 
 Resim =>
 
-[Resim 1](https://github.com/harunlakodla/Flutter-Firebase-Rest-Api-GET-POST-DELETE)
+![Resim 1](https://github.com/harunlakodla/Flutter-Firebase-Rest-Api-GET-POST-DELETE)
 
 ## Getting Started
 
